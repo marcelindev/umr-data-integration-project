@@ -1,0 +1,2 @@
+-We integrated the code in one script to have a pipeline at the end
+-For showcases we used power bi for the visuals and for the analysis of data (couldnt upload because of internet)
